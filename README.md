@@ -15,6 +15,15 @@ My Holopins
 -----------
 [![@prouxx's Holopin board](https://holopin.io/api/user/board?user=prouxx)](https://holopin.io/@prouxx)
 
+Stats
+-----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pr0uxx&count_private=true&show_icons=true&theme=highcontrast" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0uxx&layout=compact&theme=highcontrast" />
+</a>
+
 <!--
 **pr0uxx/pr0uxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
